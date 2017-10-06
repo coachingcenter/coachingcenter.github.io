@@ -24,7 +24,7 @@ E-mail:
 :   info@coachingcenter.hu
 
 Facebook
-:   https://www.facebook.com/coachinghelp/
+:   [https://www.facebook.com/coachinghelp/](https://www.facebook.com/coachinghelp/)
 
 Megközelítés
 :   Budapest 7. Kerület, Garay u 33. 1.emelet.
